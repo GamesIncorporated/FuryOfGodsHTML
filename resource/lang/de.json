@@ -30,7 +30,7 @@
     "text":"REALITY-CHECK"
   },
   "lbl_RealityCheckText" : {
-    "text":"Du hast eine Realitätsprüfung alle % Minuten \n des Spiels gewünscht. Du hast jetzt % erreicht."
+    "text":"Du hast eine Realitätsprüfung \n alle % Minuten des Spiels gewünscht. \n Du hast jetzt % erreicht."
   },
   "lbl_NetworkErrorHeading" : {
     "text":"VERBINDUNGSVERLUST"
@@ -99,7 +99,7 @@
     "text": "INFORMATIONEN"
   },
   "lbl_tooltip_labelSettings": {
-    "text": "instellungen"
+    "text": "Einstellungen"
   },
   "lbl_tooltip_labelHistory": {
     "text": "Spielverlauf"

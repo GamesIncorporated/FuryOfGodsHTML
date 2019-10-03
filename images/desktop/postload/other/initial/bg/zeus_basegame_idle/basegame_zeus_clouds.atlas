@@ -1,0 +1,97 @@
+
+basegame_zeus_clouds.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Clouid _1
+  rotate: false
+  xy: 838, 704
+  size: 611, 124
+  orig: 611, 124
+  offset: 0, 0
+  index: -1
+Clouid _10
+  rotate: false
+  xy: 2, 2
+  size: 344, 293
+  orig: 344, 293
+  offset: 0, 0
+  index: -1
+Clouid _11
+  rotate: false
+  xy: 436, 308
+  size: 400, 417
+  orig: 400, 417
+  offset: 0, 0
+  index: -1
+Clouid _12
+  rotate: false
+  xy: 1451, 574
+  size: 349, 247
+  orig: 349, 247
+  offset: 0, 0
+  index: -1
+Clouid _2
+  rotate: false
+  xy: 827, 830
+  size: 690, 164
+  orig: 690, 164
+  offset: 0, 0
+  index: -1
+Clouid _3
+  rotate: false
+  xy: 2, 727
+  size: 823, 267
+  orig: 823, 267
+  offset: 0, 0
+  index: -1
+Clouid _4
+  rotate: true
+  xy: 1802, 536
+  size: 285, 191
+  orig: 285, 191
+  offset: 0, 0
+  index: -1
+Clouid _5
+  rotate: false
+  xy: 521, 169
+  size: 271, 137
+  orig: 271, 137
+  offset: 0, 0
+  index: -1
+Clouid _6
+  rotate: false
+  xy: 838, 279
+  size: 380, 237
+  orig: 380, 237
+  offset: 0, 0
+  index: -1
+Clouid _7
+  rotate: false
+  xy: 838, 518
+  size: 450, 184
+  orig: 450, 184
+  offset: 0, 0
+  index: -1
+Clouid _8
+  rotate: false
+  xy: 2, 297
+  size: 432, 428
+  orig: 432, 428
+  offset: 0, 0
+  index: -1
+Clouid _9
+  rotate: false
+  xy: 1519, 823
+  size: 502, 171
+  orig: 502, 171
+  offset: 0, 0
+  index: -1
+freegame_idle_lightning
+  rotate: false
+  xy: 348, 11
+  size: 171, 284
+  orig: 171, 284
+  offset: 0, 0
+  index: -1

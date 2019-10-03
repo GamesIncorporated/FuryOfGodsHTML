@@ -119,6 +119,12 @@
       "url": "resource/font/Win_Text.png",
       "jsonURL": "resource/font/Win_Text.fnt",
       "type": "bitmapfont"
+    },
+    "ReSpinCounterFont": {
+      "key": "ReSpinCounterFont",
+      "url": "resource/font/free_spins_number.png",
+      "jsonURL": "resource/font/free_spins_number.fnt",
+      "type": "bitmapfont"
     }
   },
   "baseGamePostload": {

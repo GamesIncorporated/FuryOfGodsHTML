@@ -30,7 +30,7 @@
     "text":"CHEQUE DE REALIDAD"
   },
   "lbl_RealityCheckText" : {
-    "text":"Ha solicitado una comprobación de realidad cada \n % minutos de juego. Su sesión de juego % ha \n llegado a los minutos."
+    "text":"Ha solicitado una comprobación \n de realidad cada % minutos de juego. \n Su sesión de juego % ha llegado a los minutos."
   },
   "lbl_NetworkErrorHeading" : {
     "text":"CONEXIÓN PERDIDA"

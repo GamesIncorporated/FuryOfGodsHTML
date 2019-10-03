@@ -3,7 +3,7 @@
     "text": "LINE %paylines% WINS %amount%"
   },  
   "lbl_freeplay_sentence": {
-    "text": "Dispone de %freePlayCounter% JUGADAS GRATIS con una apuesta de %freePlayStake%"
+    "text": "Du har %freePlayCounter% GRATISSPINN för %freePlayStake% insats"
   },
   "lbl_slot_machine_sentence": {
     "text": "Välj ikonen GOLDEN CHIP när som helst för att spela"
@@ -12,13 +12,13 @@
     "text": "GRATTIS"
   },
   "lbl_freeplay_completed": {
-    "text": "Jugadas gratis completadas"
+    "text": "Gratisspinn utförda"
   },
   "lbl_you_have_won": {
     "text": "DU HAR VUNNIT"
   },
   "lbl_free_play_completed": {
-    "text": "Jugadas gratis completadas"
+    "text": "Gratisspinn utförda"
   },
   "lbl_free_plays_left": {
     "text": "%freePlayCounter% GIROS GRATIS restantes"
@@ -33,10 +33,10 @@
     "text":"Du har begärt att bli påmind om en verklighetskoll var \n % minut under spelets gång. Din spelsession % har \nnu varat i minuter."
   },
   "lbl_NetworkErrorHeading" : {
-    "text":"CONEXIÓN PERDIDA"
+    "text": "ANSLUTNINGEN BRÖTS"
   },
   "lbl_NetworkErrorMsg" : {
-    "text":"Has perdido la conexión al servidor del juego. \n Por favor, vuelva a iniciar el juego e inténtelo otra vez."
+    "text": "Du har tappat anslutningen till spelservern.\n Starta om spelet och försök igen."
   },
   "lbl_ConnectionLossErrorMsg" : {
     "text":"La seguridad es importante para nosotros. Como ha estado inactivo durante algún tiempo, hemos cerrado automáticamente su sesión de juego."
@@ -46,7 +46,7 @@
   },
 
   "lbl_InSufficientFundErrorHeading" : {
-    "text":"OTILLRÄCKLIGT SALDO"
+    "text": "OTILLRÄCKLIGA MEDEL"
   },
   "lbl_InSufficientFundErrorMsg" : {
     "text":"Otillräckliga medel för att genomföra spelomgången."
@@ -59,7 +59,7 @@
     "text":"Vi har upptäckt att det föregående spelet inte \n slutförts. Vi kommer att återuppta spelet, som du nu \n kan fortsätta med."
   },
   "lbl_GameOnIEBrowserErrorMsg":{
-    "text": "Vi har upptäckt att du spelar via webbläsaren IE11, vilket\n kan medföra vissa ljudproblem i spelet. Vi rekommenderar \n att du istället spelar det här spelet på någon av de \n vanligaste webbläsarna för att få en bättre spelupplevelse."
+    "text":"Vi har upptäckt att du spelar via webbläsaren IE11, \n vilket kan medföra vissa ljudproblem i spelet.  Vi rekommenderar \n att du istället spelar det här spelet \n på någon av de vanligaste webbläsarna för att få en bättre \n spelupplevelse."
   },
   "lbl_GameOnUCBrowserErrorMsg":{
     "text":"We have detected that you are playing game on UC browser \n which may cause some sound issues in the game, we recommend you to play \n this game on mainstream browsers for best experience."
@@ -74,14 +74,14 @@
     "text": "MAXINSATS"
    },
    "lbl_tooltip_labelSpin" :{
-    "text": "Acción"
+    "text": "Spinn"
    },
    "lbl_tooltip_labelStop" :{
     "text": "Stopp Autospel"
    },
   
    "lbl_tooltip_labelBetSettings":{
-    "text":"Configuración de apuesta"
+    "text": "Satsningsinställningar"
   },
   "lbl_auto_play": {
     "text": "autospel"
@@ -90,7 +90,7 @@
   "text": "Stopp Autospel"
 },
   "lbl_tooltip_labelGameSettings":{
-    "text": "Configuración del juego"
+    "text": "Spelinställningar"
   },
   "lbl_tooltip_labelpaytable": {
     "text": "Betallista"
@@ -99,7 +99,7 @@
     "text": "INFORMATION"
   },
   "lbl_tooltip_labelSettings": {
-    "text": "Configuración"
+    "text": "Inställnings"
   },
   "lbl_tooltip_labelHistory": {
     "text": "Spelhistorik"
