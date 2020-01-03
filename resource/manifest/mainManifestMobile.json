@@ -125,6 +125,12 @@
       "url": "resource/font/free_spins_number.png",
       "jsonURL": "resource/font/free_spins_number.fnt",
       "type": "bitmapfont"
+    },
+    "FGIntroCount": {
+      "key": "FGIntroCount",
+      "url": "resource/font/Intro_Numbers.png",
+      "jsonURL": "resource/font/Intro_Numbers.fnt",
+      "type": "bitmapfont"
     }
   },
   "baseGamePostload": {

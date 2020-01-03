@@ -141,17 +141,17 @@
     },
     "zeusBgIdleAnim": {
       "key": "basegame_zeus_clouds",
-      "url": "images/desktop/postload/other/initial/bg/zeus_basegame_idle/basegame_zeus_clouds.json",
+      "url": "images/desktop/postload/other/zeus_basegame_idle/basegame_zeus_clouds.json",
       "type": "spine"
     },
     "poseidonBgIdleAnim": {
       "key": "poseidon_idle",
-      "url": "images/desktop/postload/other/initial/bg/poseidon_idle/poseidon_idle.json",
+      "url": "images/desktop/postload/other/poseidon_idle/poseidon_idle.json",
       "type": "spine"
     },
     "hadesBgIdleAnim": {
       "key": "hades_idle",
-      "url": "images/desktop/postload/other/initial/bg/hedas_idle/hedas_idle.json",
+      "url": "images/desktop/postload/other/hedas_idle/hedas_idle.json",
       "type": "spine"
     }
   },
