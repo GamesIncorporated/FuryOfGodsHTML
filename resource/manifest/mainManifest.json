@@ -138,21 +138,6 @@
       "key": "manifest",
       "url": "resource/manifest/list_base_postload_%lang%_%res%.json",
       "type": "pack"
-    },
-    "zeusBgIdleAnim": {
-      "key": "basegame_zeus_clouds",
-      "url": "images/desktop/postload/other/zeus_basegame_idle/basegame_zeus_clouds.json",
-      "type": "spine"
-    },
-    "poseidonBgIdleAnim": {
-      "key": "poseidon_idle",
-      "url": "images/desktop/postload/other/poseidon_idle/poseidon_idle.json",
-      "type": "spine"
-    },
-    "hadesBgIdleAnim": {
-      "key": "hades_idle",
-      "url": "images/desktop/postload/other/hedas_idle/hedas_idle.json",
-      "type": "spine"
     }
   },
   "freegame": {
@@ -160,11 +145,6 @@
       "key": "manifest",
       "url": "resource/manifest/list_free_postload_%lang%_%res%.json",
       "type": "pack"
-    },
-    "freeGameBgBackgroundAnim_spine": {
-      "key": "freegame_idle",
-      "url": "images/common/postload/other/freegame/bg/freegame_idle.json",
-      "type": "spine"
     },
     "freeGameIntroAnim_spine": {
       "key": "transition",

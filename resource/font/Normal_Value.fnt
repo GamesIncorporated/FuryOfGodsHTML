@@ -80,7 +80,7 @@ ew\Select_Value1-export.png" />
 		<char id="163" x="84" y="69" width="17" height="22" xoffset="0" yoffset="58" xadvance="18" /><!-- £ -->
 		<char id="165" x="66" y="92" width="17" height="22" xoffset="0" yoffset="58" xadvance="18" /><!-- ¥ -->
 		<char id="8377" x="85" y="23" width="16" height="22" xoffset="0" yoffset="58" xadvance="17" /><!-- ₹ -->
-		<char id="1083" x="46" y="46" width="19" height="22" xoffset="0" yoffset="58" xadvance="20" /><!-- л -->
+		<char id="1083" x="46" y="46" width="19" height="22" xoffset="0" yoffset="58" xadvance="26" /><!-- л -->
 		<char id="3647" x="135" y="103" width="15" height="26" xoffset="0" yoffset="56" xadvance="16" /><!-- ฿ -->
 		<char id="8372" x="45" y="120" width="19" height="22" xoffset="0" yoffset="58" xadvance="20" /><!-- ₴ -->
 		<char id="269" x="84" y="138" width="16" height="23" xoffset="0" yoffset="57" xadvance="17" /><!-- č -->

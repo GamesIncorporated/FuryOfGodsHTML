@@ -70,184 +70,199 @@
       "end": 177.23489795918368,
       "loop": false
     },
-    "fs_counter_update": {
+    "free_spins_outro": {
       "start": 179,
-      "end": 180.25351473922902,
+      "end": 182.23489795918368,
+      "loop": false
+    },
+    "fs_counter_update": {
+      "start": 184,
+      "end": 185.25351473922902,
       "loop": false
     },
     "fs_number_move": {
-      "start": 182,
-      "end": 183.5432426303855,
+      "start": 187,
+      "end": 188.5432426303855,
       "loop": false
     },
     "generic_btn": {
-      "start": 185,
-      "end": 185.08167800453515,
+      "start": 190,
+      "end": 190.08167800453515,
       "loop": false
     },
     "God_Changing": {
-      "start": 187,
-      "end": 189.43972789115645,
+      "start": 192,
+      "end": 194.43972789115645,
       "loop": false
     },
     "God_selection": {
-      "start": 191,
-      "end": 192.62632653061223,
+      "start": 196,
+      "end": 197.62632653061223,
       "loop": false
     },
     "Grid_Meter": {
-      "start": 194,
-      "end": 195.17689342403628,
+      "start": 199,
+      "end": 200.17689342403628,
       "loop": false
     },
     "Hades_Action_v2": {
-      "start": 197,
-      "end": 201.27185941043084,
+      "start": 202,
+      "end": 206.27185941043084,
       "loop": false
     },
     "Hades_Activation": {
-      "start": 203,
-      "end": 205.49145124716554,
+      "start": 208,
+      "end": 210.49145124716554,
       "loop": false
     },
     "Lightning_Effect": {
-      "start": 207,
-      "end": 208.82900226757369,
+      "start": 212,
+      "end": 213.82900226757369,
       "loop": false
     },
     "mega_big_win_loop": {
-      "start": 210,
-      "end": 216.6587755102041,
+      "start": 215,
+      "end": 221.6587755102041,
       "loop": false
     },
     "Meter_Decrement": {
-      "start": 218,
-      "end": 219.31820861678005,
+      "start": 223,
+      "end": 224.31820861678005,
       "loop": false
     },
     "Meter_Reset": {
-      "start": 221,
-      "end": 222.09421768707483,
+      "start": 226,
+      "end": 227.09421768707483,
       "loop": false
     },
     "Poseidon_Activation": {
-      "start": 224,
-      "end": 226.49145124716554,
+      "start": 229,
+      "end": 231.49145124716554,
       "loop": false
     },
     "Posiedon_Action_v2": {
-      "start": 228,
-      "end": 233.62519274376416,
+      "start": 233,
+      "end": 238.62519274376416,
       "loop": false
     },
     "Re-spin_Intro": {
-      "start": 235,
-      "end": 237.67104308390023,
+      "start": 240,
+      "end": 242.67104308390023,
       "loop": false
     },
     "Re-spin_loop": {
-      "start": 239,
-      "end": 254.13768707482993,
+      "start": 244,
+      "end": 259.13768707482996,
       "loop": true
     },
     "Reels_spin1": {
-      "start": 256,
-      "end": 263.60163265306124,
+      "start": 261,
+      "end": 268.60163265306124,
       "loop": false
     },
     "Reel_intro": {
-      "start": 265,
-      "end": 266.85609977324265,
+      "start": 270,
+      "end": 271.85609977324265,
       "loop": false
     },
     "reel_landing": {
-      "start": 268,
-      "end": 269.075873015873,
+      "start": 273,
+      "end": 274.075873015873,
       "loop": false
     },
     "Reel_stop": {
-      "start": 271,
-      "end": 273.1217006802721,
+      "start": 276,
+      "end": 278.1217006802721,
       "loop": false
     },
     "respin_retrigger": {
-      "start": 275,
-      "end": 277.0065986394558,
+      "start": 280,
+      "end": 282.0065986394558,
       "loop": false
     },
     "Scatter_Land": {
-      "start": 279,
-      "end": 280.00002267573694,
+      "start": 284,
+      "end": 285.00002267573694,
       "loop": false
     },
     "Spin_button": {
-      "start": 282,
-      "end": 282.80349206349206,
+      "start": 287,
+      "end": 287.80349206349206,
       "loop": false
     },
     "Stop_button": {
-      "start": 284,
-      "end": 285.1028344671202,
+      "start": 289,
+      "end": 290.1028344671202,
       "loop": false
     },
     "super_big_win_loop": {
-      "start": 287,
-      "end": 293.65877551020407,
+      "start": 292,
+      "end": 298.65877551020407,
       "loop": false
     },
     "Symbol_Landing": {
-      "start": 295,
-      "end": 296.55240362811793,
+      "start": 300,
+      "end": 301.55240362811793,
       "loop": false
     },
     "Transition_1": {
-      "start": 298,
-      "end": 300.23809523809524,
+      "start": 303,
+      "end": 305.23809523809524,
       "loop": false
     },
     "Transition_2": {
-      "start": 302,
-      "end": 304.2213378684807,
+      "start": 307,
+      "end": 309.2213378684807,
       "loop": false
     },
     "ultra_big_win_loop": {
-      "start": 306,
-      "end": 312.65877551020407,
+      "start": 311,
+      "end": 317.65877551020407,
       "loop": false
     },
     "Whirlpool_effect": {
-      "start": 314,
-      "end": 316.4507709750567,
+      "start": 319,
+      "end": 321.4507709750567,
       "loop": false
     },
     "wintickup_center": {
-      "start": 318,
-      "end": 323.06766439909296,
+      "start": 323,
+      "end": 328.06766439909296,
       "loop": false
     },
     "wintickup_center_end_frame": {
-      "start": 325,
-      "end": 326.23507936507934,
+      "start": 330,
+      "end": 331.23507936507934,
       "loop": false
     },
     "wintickup_moving": {
-      "start": 328,
-      "end": 330.7486394557823,
+      "start": 333,
+      "end": 335.7486394557823,
       "loop": false
     },
-    "STOP_SOUND": {
-      "start": 332,
-      "end": 333.4517913832199,
+    "win_fade": {
+      "start": 337,
+      "end": 338.4517913832199,
+      "loop": false
+    },
+    "Wof_Music": {
+      "start": 340,
+      "end": 354.7651700680272,
+      "loop": true
+    },
+    "Wrath_of_Gods_feature": {
+      "start": 356,
+      "end": 359.1559637188209,
       "loop": false
     },
     "Zeus_Action": {
-      "start": 335,
-      "end": 338.1863945578231,
+      "start": 361,
+      "end": 364.1863945578231,
       "loop": false
     },
     "Zeus_Activation": {
-      "start": 340,
-      "end": 342.4914512471655,
+      "start": 366,
+      "end": 368.4914512471655,
       "loop": false
     }
   }

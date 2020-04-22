@@ -1,0 +1,147 @@
+{"frames": {
+
+"Basegame_Poseidon_00015.png":
+{
+	"frame": {"x":0,"y":0,"w":1280,"h":720},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1280,"h":720},
+	"sourceSize": {"w":1280,"h":720},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"Basegame_Poseidon_00016.png":
+{
+	"frame": {"x":1280,"y":0,"w":1280,"h":720},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1280,"h":720},
+	"sourceSize": {"w":1280,"h":720},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"Basegame_Poseidon_00017.png":
+{
+	"frame": {"x":2560,"y":0,"w":1280,"h":720},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1280,"h":720},
+	"sourceSize": {"w":1280,"h":720},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"Basegame_Poseidon_00018.png":
+{
+	"frame": {"x":0,"y":720,"w":1280,"h":720},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1280,"h":720},
+	"sourceSize": {"w":1280,"h":720},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"Basegame_Poseidon_00019.png":
+{
+	"frame": {"x":1280,"y":720,"w":1280,"h":720},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1280,"h":720},
+	"sourceSize": {"w":1280,"h":720},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"Basegame_Poseidon_00020.png":
+{
+	"frame": {"x":2560,"y":720,"w":1280,"h":720},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1280,"h":720},
+	"sourceSize": {"w":1280,"h":720},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"Basegame_Poseidon_00021.png":
+{
+	"frame": {"x":0,"y":1440,"w":1280,"h":720},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1280,"h":720},
+	"sourceSize": {"w":1280,"h":720},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"Basegame_Poseidon_00022.png":
+{
+	"frame": {"x":1280,"y":1440,"w":1280,"h":720},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1280,"h":720},
+	"sourceSize": {"w":1280,"h":720},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"Basegame_Poseidon_00023.png":
+{
+	"frame": {"x":2560,"y":1440,"w":1280,"h":720},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1280,"h":720},
+	"sourceSize": {"w":1280,"h":720},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"Basegame_Poseidon_00024.png":
+{
+	"frame": {"x":0,"y":2160,"w":1280,"h":720},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1280,"h":720},
+	"sourceSize": {"w":1280,"h":720},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"Basegame_Poseidon_00025.png":
+{
+	"frame": {"x":1280,"y":2160,"w":1280,"h":720},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1280,"h":720},
+	"sourceSize": {"w":1280,"h":720},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"Basegame_Poseidon_00026.png":
+{
+	"frame": {"x":2560,"y":2160,"w":1280,"h":720},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1280,"h":720},
+	"sourceSize": {"w":1280,"h":720},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"Basegame_Poseidon_00027.png":
+{
+	"frame": {"x":0,"y":2880,"w":1280,"h":720},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1280,"h":720},
+	"sourceSize": {"w":1280,"h":720},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"Basegame_Poseidon_00028.png":
+{
+	"frame": {"x":1280,"y":2880,"w":1280,"h":720},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1280,"h":720},
+	"sourceSize": {"w":1280,"h":720},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"Basegame_Poseidon_00029.png":
+{
+	"frame": {"x":2560,"y":2880,"w":1280,"h":720},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1280,"h":720},
+	"sourceSize": {"w":1280,"h":720},
+	"pivot": {"x":0.5,"y":0.5}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "Basegame_Poseidon-1.png",
+	"format": "RGBA8888",
+	"size": {"w":3840,"h":3600},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:b3059f99ce7888d9682b99e7129c0c62:e43d4d8a77892d37c6f1e274ca5ac6d8:0037c0d58c23e1b69dbf614e409caef5$"
+}
+}
