@@ -46,8 +46,8 @@
     },
     "FreeGameOutroWinFont": {
       "key": "FreeGameOutroWinFont",
-      "url": "resource/font/Numbers_export.png",
-      "jsonURL": "resource/font/Numbers_export.fnt",
+      "url": "resource/font/Outro_Numbers.png",
+      "jsonURL": "resource/font/Outro_Numbers.fnt",
       "type": "bitmapfont"
     },
     "Sound": {
@@ -119,6 +119,18 @@
       "url": "resource/font/number-export.png",
       "jsonURL": "resource/font/number-export.fnt",
       "type": "bitmapfont"
+    },
+    "ReSpinCounterFont": {
+      "key": "ReSpinCounterFont",
+      "url": "resource/font/free_spins_number.png",
+      "jsonURL": "resource/font/free_spins_number.fnt",
+      "type": "bitmapfont"
+    },
+    "FGIntroCount": {
+      "key": "FGIntroCount",
+      "url": "resource/font/Intro_Numbers.png",
+      "jsonURL": "resource/font/Intro_Numbers.fnt",
+      "type": "bitmapfont"
     }
   },
   "baseGamePostload": {
@@ -126,11 +138,6 @@
       "key": "manifest",
       "url": "resource/manifest/list_base_postload_%lang%_%res%.json",
       "type": "pack"
-    },
-    "bgBackgroundAnim_spine": {
-      "key": "basegame_idle",
-      "url": "images/common/postload/other/initial/bg/basegame/Basegame_zeus Clouds.json",
-      "type": "spine"
     }
   },
   "freegame": {
@@ -138,11 +145,6 @@
       "key": "manifest",
       "url": "resource/manifest/list_free_postload_%lang%_%res%.json",
       "type": "pack"
-    },
-    "freeGameBgBackgroundAnim_spine": {
-      "key": "freegame_idle",
-      "url": "images/common/postload/other/freegame/bg/freegame_idle.json",
-      "type": "spine"
     },
     "freeGameIntroAnim_spine": {
       "key": "transition",

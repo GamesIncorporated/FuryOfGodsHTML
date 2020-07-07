@@ -6,7 +6,7 @@
     "text": "Masz %freePlayCounter% BEZPŁATNE GRY przy stawce %freePlayStake%"
   },
   "lbl_slot_machine_sentence": {
-    "text": "Wybierz ikonę GOLDEN CHIP w dowolnym momencie,\n aby odtworzyć"
+    "text": "Wybierz ikonę GOLDEN CHIP w dowolnym momencie, aby odtworzyć"
   },
   "lbl_freeplay_congratulations": {
     "text": "GRATULACJE"
@@ -30,7 +30,7 @@
     "text":"SPRAWDZENIE AUTENTYCZNOŚCI"
   },
   "lbl_RealityCheckText" : {
-    "text":"Poprosiłeś(aś) o kontrolę czasu spędzonego w grze \n co % minut(y) gry. Twoja sesja % trwa już minut:"
+    "text":"Poprosiłeś(aś) o kontrolę czasu \n spędzonego w grze co % minut(y) gry. \n Twoja sesja % trwa już minut:"
   },
   "lbl_NetworkErrorHeading" : {
     "text":"ZERWANE POŁĄCZENIE"
@@ -71,7 +71,7 @@
     "text": "DARMOWE RUNDY"
   },
   "lbl_tooltip_labelMaxBet" :{
-    "text": "MAKSYMALNA STAWKA"
+    "text": "Maks. Zakład"
    },
    "lbl_tooltip_labelSpin" :{
     "text": "Działanie"
@@ -99,7 +99,7 @@
     "text": "INFORMACJE"
   },
   "lbl_tooltip_labelSettings": {
-    "text": "Ustawienia"
+    "text": "ustawień"
   },
   "lbl_tooltip_labelHistory": {
     "text": "Historia gry"

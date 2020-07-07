@@ -1,0 +1,30 @@
+{"frames": {
+
+"reel_border_animation_00008.png":
+{
+	"frame": {"x":2,"y":2,"w":713,"h":712},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":38,"y":37,"w":713,"h":712},
+	"sourceSize": {"w":798,"h":789},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"reel_border_animation_00009.png":
+{
+	"frame": {"x":717,"y":2,"w":707,"h":712},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":46,"y":37,"w":707,"h":712},
+	"sourceSize": {"w":798,"h":789},
+	"pivot": {"x":0.5,"y":0.5}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "reel_border_animation-2.png",
+	"format": "RGBA8888",
+	"size": {"w":1426,"h":716},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:dbe8779bf246e760576b443c7434d988:57d5406c5875db3f2bc2f998052d7a7c:6e71d10b7e2f239e081f706b3d262872$"
+}
+}

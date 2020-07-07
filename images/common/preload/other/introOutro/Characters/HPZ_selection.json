@@ -1,0 +1,120 @@
+{"frames": {
+
+"Hades_Disable.png":
+{
+	"frame": {"x":2,"y":2,"w":286,"h":276},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":286,"h":276},
+	"sourceSize": {"w":286,"h":276},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"Hades_Down.png":
+{
+	"frame": {"x":290,"y":2,"w":286,"h":276},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":286,"h":276},
+	"sourceSize": {"w":286,"h":276},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"Hades_Normal.png":
+{
+	"frame": {"x":578,"y":2,"w":286,"h":276},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":286,"h":276},
+	"sourceSize": {"w":286,"h":276},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"Hades_Over.png":
+{
+	"frame": {"x":2,"y":280,"w":286,"h":276},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":286,"h":276},
+	"sourceSize": {"w":286,"h":276},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"Poseidon_Disable.png":
+{
+	"frame": {"x":290,"y":280,"w":315,"h":309},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":315,"h":309},
+	"sourceSize": {"w":315,"h":309},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"Poseidon_Down.png":
+{
+	"frame": {"x":607,"y":280,"w":315,"h":309},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":315,"h":309},
+	"sourceSize": {"w":315,"h":309},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"Poseidon_Normal.png":
+{
+	"frame": {"x":2,"y":591,"w":315,"h":309},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":315,"h":309},
+	"sourceSize": {"w":315,"h":309},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"Poseidon_Over.png":
+{
+	"frame": {"x":319,"y":591,"w":315,"h":309},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":315,"h":309},
+	"sourceSize": {"w":315,"h":309},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"Zeus_Disable.png":
+{
+	"frame": {"x":636,"y":591,"w":252,"h":276},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":252,"h":276},
+	"sourceSize": {"w":252,"h":276},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"Zeus_Down.png":
+{
+	"frame": {"x":2,"y":902,"w":252,"h":276},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":252,"h":276},
+	"sourceSize": {"w":252,"h":276},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"Zeus_Normal.png":
+{
+	"frame": {"x":256,"y":902,"w":252,"h":276},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":252,"h":276},
+	"sourceSize": {"w":252,"h":276},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"Zeus_Over.png":
+{
+	"frame": {"x":510,"y":902,"w":252,"h":276},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":252,"h":276},
+	"sourceSize": {"w":252,"h":276},
+	"pivot": {"x":0.5,"y":0.5}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "HPZ_selection.png",
+	"format": "RGBA8888",
+	"size": {"w":924,"h":1180},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:035f518fbf41db92cc1dbc7fc9f18533:6aa3d9e0716720fe66c6cdfe38539a89:ac87a4cb9538356587425c6dba95ce52$"
+}
+}

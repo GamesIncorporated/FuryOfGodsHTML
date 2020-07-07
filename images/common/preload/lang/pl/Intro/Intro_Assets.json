@@ -2,83 +2,83 @@
 
 "Checkbox_Normal.png":
 {
-	"frame": {"x":4,"y":4,"w":48,"h":48},
+	"frame": {"x":2,"y":2,"w":50,"h":50},
 	"rotated": false,
 	"trimmed": false,
-	"spriteSourceSize": {"x":0,"y":0,"w":48,"h":48},
-	"sourceSize": {"w":48,"h":48},
+	"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+	"sourceSize": {"w":50,"h":50},
 	"pivot": {"x":0.5,"y":0.5}
 },
 "Checkbox_Over.png":
 {
-	"frame": {"x":52,"y":4,"w":48,"h":48},
+	"frame": {"x":54,"y":2,"w":50,"h":50},
 	"rotated": false,
 	"trimmed": false,
-	"spriteSourceSize": {"x":0,"y":0,"w":48,"h":48},
-	"sourceSize": {"w":48,"h":48},
+	"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+	"sourceSize": {"w":50,"h":50},
 	"pivot": {"x":0.5,"y":0.5}
 },
 "Checkbox_Press.png":
 {
-	"frame": {"x":100,"y":4,"w":48,"h":48},
+	"frame": {"x":106,"y":2,"w":50,"h":50},
 	"rotated": false,
 	"trimmed": false,
-	"spriteSourceSize": {"x":0,"y":0,"w":48,"h":48},
-	"sourceSize": {"w":48,"h":48},
+	"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+	"sourceSize": {"w":50,"h":50},
 	"pivot": {"x":0.5,"y":0.5}
 },
 "Continue_Normal.png":
 {
-	"frame": {"x":148,"y":4,"w":282,"h":93},
+	"frame": {"x":158,"y":2,"w":268,"h":88},
 	"rotated": false,
 	"trimmed": false,
-	"spriteSourceSize": {"x":0,"y":0,"w":282,"h":93},
-	"sourceSize": {"w":282,"h":93},
+	"spriteSourceSize": {"x":0,"y":0,"w":268,"h":88},
+	"sourceSize": {"w":268,"h":88},
 	"pivot": {"x":0.5,"y":0.5}
 },
 "Continue_Over.png":
 {
-	"frame": {"x":4,"y":97,"w":282,"h":93},
+	"frame": {"x":2,"y":92,"w":268,"h":88},
 	"rotated": false,
 	"trimmed": false,
-	"spriteSourceSize": {"x":0,"y":0,"w":282,"h":93},
-	"sourceSize": {"w":282,"h":93},
+	"spriteSourceSize": {"x":0,"y":0,"w":268,"h":88},
+	"sourceSize": {"w":268,"h":88},
 	"pivot": {"x":0.5,"y":0.5}
 },
 "Continue_Pressed.png":
 {
-	"frame": {"x":4,"y":190,"w":282,"h":93},
+	"frame": {"x":2,"y":182,"w":268,"h":88},
 	"rotated": false,
 	"trimmed": false,
-	"spriteSourceSize": {"x":0,"y":0,"w":282,"h":93},
-	"sourceSize": {"w":282,"h":93},
+	"spriteSourceSize": {"x":0,"y":0,"w":268,"h":88},
+	"sourceSize": {"w":268,"h":88},
 	"pivot": {"x":0.5,"y":0.5}
 },
 "Pagination_1.png":
 {
-	"frame": {"x":286,"y":190,"w":62,"h":61},
+	"frame": {"x":272,"y":182,"w":44,"h":44},
 	"rotated": false,
 	"trimmed": false,
-	"spriteSourceSize": {"x":0,"y":0,"w":62,"h":61},
-	"sourceSize": {"w":62,"h":61},
+	"spriteSourceSize": {"x":0,"y":0,"w":44,"h":44},
+	"sourceSize": {"w":44,"h":44},
 	"pivot": {"x":0.5,"y":0.5}
 },
 "Pagination_2.png":
 {
-	"frame": {"x":348,"y":190,"w":62,"h":61},
+	"frame": {"x":318,"y":182,"w":44,"h":44},
 	"rotated": false,
 	"trimmed": false,
-	"spriteSourceSize": {"x":0,"y":0,"w":62,"h":61},
-	"sourceSize": {"w":62,"h":61},
+	"spriteSourceSize": {"x":0,"y":0,"w":44,"h":44},
+	"sourceSize": {"w":44,"h":44},
 	"pivot": {"x":0.5,"y":0.5}
 }},
 "meta": {
 	"app": "http://www.codeandweb.com/texturepacker",
 	"version": "1.0",
-	"image": "Intro_Assets.png",
+	"image": "Intro_Assets_atlas.png",
 	"format": "RGBA8888",
-	"size": {"w":434,"h":287},
+	"size": {"w":428,"h":272},
 	"scale": "1",
-	"smartupdate": "$TexturePacker:SmartUpdate:21acce4efadf6048cfbb8e2f1075bad3:dcb8821fc078cdf317a256660e6f5b25:b0809b800fb15b5596c5c0748983a6b3$"
+	"smartupdate": "$TexturePacker:SmartUpdate:d55f2def83a8d974d29991ae5d98eb4f:c248a9440a752850c2086322d9f2229d:12482629ec81ba1f827909b03a4cc8f6$"
 }
 }

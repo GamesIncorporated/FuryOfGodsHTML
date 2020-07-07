@@ -89,7 +89,7 @@
 		<char id="4314" x="0" y="130" width="52" height="46" xoffset="0" yoffset="47" xadvance="53" /><!-- ლ -->
 		<char id="8381" x="293" y="40" width="35" height="44" xoffset="0" yoffset="36" xadvance="36" /><!-- ₽ -->
 		<char id="8369" x="134" y="271" width="40" height="44" xoffset="0" yoffset="36" xadvance="41" /><!-- ₱ -->
-		<char id="32" x="0" y="0" width="0" height="0" xoffset="0" yoffset="0" xadvance="20" /><!--   -->
+		<char id="32" x="0" y="0" width="0" height="0" xoffset="0" yoffset="0" xadvance="5" /><!--   -->
 		<char id="9" x="0" y="0" width="0" height="0" xoffset="0" yoffset="0" xadvance="160" /><!-- 	 -->
 	</chars>
 	<kernings count="0">

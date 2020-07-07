@@ -30,7 +30,7 @@
     "text":"LLAMADO A LA REALIDAD"
   },
   "lbl_RealityCheckText" : {
-    "text":"Usted solicitó un Llamado a la realidad cada \n % minutos de juego. Su sesión de juego ha \n alcanzado % minutos."
+    "text":"Usted solicitó un Llamado a la \n realidad cada % minutos de juego. \n Su sesión de juego ha alcanzado % minutos."
   },
   "lbl_NetworkErrorHeading" : {
     "text":"CONEXIÓN PERDIDA"
@@ -83,7 +83,7 @@
     "text":"Configuración de apuesta"
   },
   "lbl_auto_play": {
-    "text": "partida auto"
+    "text": "Juego automático"
   },
 "lbl_tooltip_auto_play_off": {
   "text": "Dejar Juego automático"
