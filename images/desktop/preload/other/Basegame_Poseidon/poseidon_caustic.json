@@ -1,0 +1,48 @@
+{"frames": {
+
+"poseidon_caustic_00000.png":
+{
+	"frame": {"x":2,"y":2,"w":541,"h":386},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":22,"y":0,"w":541,"h":386},
+	"sourceSize": {"w":588,"h":404},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"poseidon_caustic_00004.png":
+{
+	"frame": {"x":545,"y":2,"w":541,"h":384},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":22,"y":0,"w":541,"h":384},
+	"sourceSize": {"w":588,"h":404},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"poseidon_caustic_00007.png":
+{
+	"frame": {"x":2,"y":390,"w":541,"h":385},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":22,"y":0,"w":541,"h":385},
+	"sourceSize": {"w":588,"h":404},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"poseidon_caustic_00011.png":
+{
+	"frame": {"x":545,"y":390,"w":541,"h":385},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":22,"y":0,"w":541,"h":385},
+	"sourceSize": {"w":588,"h":404},
+	"pivot": {"x":0.5,"y":0.5}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "poseidon_caustic_atlas.png",
+	"format": "RGBA8888",
+	"size": {"w":1088,"h":777},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:0f7df3e20f902c3c5e4949bcea32f5e2:1fa0c5985532829d253b2dab817e1f99:e58609f6e1f2b82ca8a13fcd80ddc245$"
+}
+}
