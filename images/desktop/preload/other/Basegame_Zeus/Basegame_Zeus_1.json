@@ -1,0 +1,246 @@
+{"frames": {
+
+"Basegame_Zeus_00038.png":
+{
+	"frame": {"x":2,"y":2,"w":659,"h":144},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":576,"w":659,"h":144},
+	"sourceSize": {"w":1280,"h":720},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"Basegame_Zeus_00039.png":
+{
+	"frame": {"x":663,"y":2,"w":659,"h":122},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":598,"w":659,"h":122},
+	"sourceSize": {"w":1280,"h":720},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"Basegame_Zeus_00040.png":
+{
+	"frame": {"x":1324,"y":2,"w":660,"h":149},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":571,"w":660,"h":149},
+	"sourceSize": {"w":1280,"h":720},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"Basegame_Zeus_00041.png":
+{
+	"frame": {"x":2,"y":153,"w":661,"h":151},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":569,"w":661,"h":151},
+	"sourceSize": {"w":1280,"h":720},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"Basegame_Zeus_00042.png":
+{
+	"frame": {"x":665,"y":153,"w":661,"h":150},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":570,"w":661,"h":150},
+	"sourceSize": {"w":1280,"h":720},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"Basegame_Zeus_00043.png":
+{
+	"frame": {"x":1328,"y":153,"w":664,"h":141},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":579,"w":664,"h":141},
+	"sourceSize": {"w":1280,"h":720},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"Basegame_Zeus_00044.png":
+{
+	"frame": {"x":2,"y":306,"w":662,"h":124},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":596,"w":662,"h":124},
+	"sourceSize": {"w":1280,"h":720},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"Basegame_Zeus_00045.png":
+{
+	"frame": {"x":666,"y":306,"w":661,"h":124},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":596,"w":661,"h":124},
+	"sourceSize": {"w":1280,"h":720},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"Basegame_Zeus_00046.png":
+{
+	"frame": {"x":1329,"y":306,"w":660,"h":122},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":598,"w":660,"h":122},
+	"sourceSize": {"w":1280,"h":720},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"Basegame_Zeus_00047.png":
+{
+	"frame": {"x":2,"y":432,"w":659,"h":122},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":598,"w":659,"h":122},
+	"sourceSize": {"w":1280,"h":720},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"Basegame_Zeus_00048.png":
+{
+	"frame": {"x":663,"y":432,"w":659,"h":122},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":598,"w":659,"h":122},
+	"sourceSize": {"w":1280,"h":720},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"Basegame_Zeus_00049.png":
+{
+	"frame": {"x":1324,"y":432,"w":658,"h":121},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":599,"w":658,"h":121},
+	"sourceSize": {"w":1280,"h":720},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"Basegame_Zeus_00050.png":
+{
+	"frame": {"x":2,"y":556,"w":657,"h":120},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":600,"w":657,"h":120},
+	"sourceSize": {"w":1280,"h":720},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"Basegame_Zeus_00051.png":
+{
+	"frame": {"x":661,"y":556,"w":654,"h":507},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":213,"w":654,"h":507},
+	"sourceSize": {"w":1280,"h":720},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"Basegame_Zeus_00052.png":
+{
+	"frame": {"x":1317,"y":556,"w":361,"h":350},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":212,"w":361,"h":350},
+	"sourceSize": {"w":1280,"h":720},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"Basegame_Zeus_00053.png":
+{
+	"frame": {"x":1680,"y":556,"w":361,"h":351},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":211,"w":361,"h":351},
+	"sourceSize": {"w":1280,"h":720},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"Basegame_Zeus_00054.png":
+{
+	"frame": {"x":2,"y":1065,"w":362,"h":354},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":209,"w":362,"h":354},
+	"sourceSize": {"w":1280,"h":720},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"Basegame_Zeus_00055.png":
+{
+	"frame": {"x":366,"y":1065,"w":364,"h":354},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":209,"w":364,"h":354},
+	"sourceSize": {"w":1280,"h":720},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"Basegame_Zeus_00056.png":
+{
+	"frame": {"x":732,"y":1065,"w":364,"h":354},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":209,"w":364,"h":354},
+	"sourceSize": {"w":1280,"h":720},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"Basegame_Zeus_00057.png":
+{
+	"frame": {"x":1098,"y":1065,"w":364,"h":354},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":209,"w":364,"h":354},
+	"sourceSize": {"w":1280,"h":720},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"Basegame_Zeus_00058.png":
+{
+	"frame": {"x":1464,"y":1065,"w":364,"h":354},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":209,"w":364,"h":354},
+	"sourceSize": {"w":1280,"h":720},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"Basegame_Zeus_00059.png":
+{
+	"frame": {"x":2,"y":1421,"w":364,"h":354},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":209,"w":364,"h":354},
+	"sourceSize": {"w":1280,"h":720},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"Basegame_Zeus_00060.png":
+{
+	"frame": {"x":368,"y":1421,"w":364,"h":354},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":209,"w":364,"h":354},
+	"sourceSize": {"w":1280,"h":720},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"Basegame_Zeus_00061.png":
+{
+	"frame": {"x":734,"y":1421,"w":364,"h":354},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":209,"w":364,"h":354},
+	"sourceSize": {"w":1280,"h":720},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"Basegame_Zeus_00062.png":
+{
+	"frame": {"x":1100,"y":1421,"w":364,"h":354},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":209,"w":364,"h":354},
+	"sourceSize": {"w":1280,"h":720},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"Basegame_Zeus_00063.png":
+{
+	"frame": {"x":1466,"y":1421,"w":364,"h":355},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":208,"w":364,"h":355},
+	"sourceSize": {"w":1280,"h":720},
+	"pivot": {"x":0.5,"y":0.5}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "Basegame_Zeus-1.png",
+	"format": "RGBA8888",
+	"size": {"w":2043,"h":1778},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:e14958ba9014998d4ba907a4adc60f93:ed4c6ceb0923297d3d1050d790c983f4:c9255979b44e0d9ef88f99da577801fc$"
+}
+}
