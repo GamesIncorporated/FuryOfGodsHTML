@@ -2,7 +2,16 @@
 
 "Aetos_Dios.png":
 {
-	"frame": {"x":7,"y":7,"w":108,"h":108},
+	"frame": {"x":240,"y":184,"w":108,"h":159},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":108,"h":159},
+	"sourceSize": {"w":108,"h":159},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"Aetos_Dios_0.png":
+{
+	"frame": {"x":8,"y":702,"w":108,"h":108},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":108,"h":108},
@@ -11,7 +20,16 @@
 },
 "Areion.png":
 {
-	"frame": {"x":123,"y":7,"w":108,"h":108},
+	"frame": {"x":8,"y":184,"w":108,"h":166},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":108,"h":166},
+	"sourceSize": {"w":108,"h":166},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"Areion_0.png":
+{
+	"frame": {"x":240,"y":351,"w":108,"h":108},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":108,"h":108},
@@ -20,7 +38,16 @@
 },
 "Armour_helmet.png":
 {
-	"frame": {"x":239,"y":7,"w":108,"h":108},
+	"frame": {"x":356,"y":184,"w":108,"h":154},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":108,"h":154},
+	"sourceSize": {"w":108,"h":154},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"Armour_helmet_0.png":
+{
+	"frame": {"x":124,"y":353,"w":108,"h":108},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":108,"h":108},
@@ -29,7 +56,16 @@
 },
 "Cerberus.png":
 {
-	"frame": {"x":355,"y":7,"w":108,"h":108},
+	"frame": {"x":8,"y":532,"w":108,"h":162},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":108,"h":162},
+	"sourceSize": {"w":108,"h":162},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"Cerberus_0.png":
+{
+	"frame": {"x":240,"y":467,"w":108,"h":108},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":108,"h":108},
@@ -38,7 +74,16 @@
 },
 "Empty_Symbol.png":
 {
-	"frame": {"x":7,"y":123,"w":108,"h":108},
+	"frame": {"x":356,"y":346,"w":108,"h":145},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":108,"h":145},
+	"sourceSize": {"w":108,"h":145},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"Empty_Symbol_0.png":
+{
+	"frame": {"x":356,"y":499,"w":108,"h":108},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":108,"h":108},
@@ -47,7 +92,16 @@
 },
 "Hades.png":
 {
-	"frame": {"x":123,"y":123,"w":108,"h":108},
+	"frame": {"x":8,"y":8,"w":108,"h":168},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":108,"h":168},
+	"sourceSize": {"w":108,"h":168},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"Hades_0.png":
+{
+	"frame": {"x":124,"y":469,"w":108,"h":108},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":108,"h":108},
@@ -56,7 +110,16 @@
 },
 "Poseidon.png":
 {
-	"frame": {"x":239,"y":123,"w":108,"h":108},
+	"frame": {"x":124,"y":8,"w":108,"h":168},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":108,"h":168},
+	"sourceSize": {"w":108,"h":168},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"Poseidon_0.png":
+{
+	"frame": {"x":240,"y":583,"w":108,"h":108},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":108,"h":108},
@@ -65,7 +128,16 @@
 },
 "Scatter.png":
 {
-	"frame": {"x":355,"y":123,"w":108,"h":108},
+	"frame": {"x":240,"y":8,"w":108,"h":168},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":108,"h":168},
+	"sourceSize": {"w":108,"h":168},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"Scatter_0.png":
+{
+	"frame": {"x":356,"y":615,"w":108,"h":108},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":108,"h":108},
@@ -74,7 +146,16 @@
 },
 "Shield.png":
 {
-	"frame": {"x":7,"y":239,"w":108,"h":108},
+	"frame": {"x":124,"y":184,"w":108,"h":161},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":108,"h":161},
+	"sourceSize": {"w":108,"h":161},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"Shield_0.png":
+{
+	"frame": {"x":124,"y":585,"w":108,"h":108},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":108,"h":108},
@@ -83,7 +164,16 @@
 },
 "Wild.png":
 {
-	"frame": {"x":123,"y":239,"w":108,"h":108},
+	"frame": {"x":8,"y":358,"w":108,"h":166},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":108,"h":166},
+	"sourceSize": {"w":108,"h":166},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"Wild_0.png":
+{
+	"frame": {"x":240,"y":699,"w":108,"h":108},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":108,"h":108},
@@ -92,7 +182,16 @@
 },
 "Zeus.png":
 {
-	"frame": {"x":239,"y":239,"w":108,"h":108},
+	"frame": {"x":356,"y":8,"w":108,"h":168},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":108,"h":168},
+	"sourceSize": {"w":108,"h":168},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"Zeus_0.png":
+{
+	"frame": {"x":124,"y":701,"w":108,"h":108},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":108,"h":108},
@@ -102,10 +201,10 @@
 "meta": {
 	"app": "http://www.codeandweb.com/texturepacker",
 	"version": "1.0",
-	"image": "Normal_Symbols.png",
+	"image": "Symbol.png",
 	"format": "RGBA8888",
-	"size": {"w":470,"h":354},
+	"size": {"w":472,"h":818},
 	"scale": "1",
-	"smartupdate": "$TexturePacker:SmartUpdate:9f9658d7dfc56058bf389cbd855a3e27:dbc07a9a88316312c58360dc9ad978a3:dd168ae64f3661ce4543bfb267ec6c87$"
+	"smartupdate": "$TexturePacker:SmartUpdate:bb064546532a59b803a8e8b6a0f755cb:1f626283cb83e3a293ba280d150f3fdd:9430bb9007ab6facda9a2f862f0ac22c$"
 }
 }

@@ -7,172 +7,262 @@
   "spritemap": {
     "2_retrigger": {
       "start": 0,
-      "end": 1.1917460317460318,
+      "end": 2.5907936507936506,
       "loop": false
     },
-    "5oak": {
-      "start": 3,
-      "end": 6.796643990929706,
-      "loop": false
-    },
-    "5_retrigger": {
-      "start": 8,
-      "end": 9.19170068027211,
-      "loop": false
-    },
-    "anticipation": {
-      "start": 11,
-      "end": 13,
+    "Anticipation": {
+      "start": 4,
+      "end": 8.704671201814058,
       "loop": false
     },
     "basegame_loop": {
-      "start": 14,
-      "end": 47.41678004535147,
+      "start": 10,
+      "end": 48.08984126984127,
       "loop": true
     },
-    "Bet_Button": {
-      "start": 49,
-      "end": 49.61578231292517,
-      "loop": false
-    },
     "big_win_loop": {
-      "start": 51,
-      "end": 55,
+      "start": 50,
+      "end": 56.65877551020408,
       "loop": false
     },
-    "bonus_win": {
-      "start": 56,
-      "end": 59.97315192743764,
+    "Cluster_win": {
+      "start": 58,
+      "end": 59.30215419501134,
+      "loop": false
+    },
+    "Cluster_win_01": {
+      "start": 61,
+      "end": 63.45433106575964,
       "loop": false
     },
     "common_win_end": {
-      "start": 61,
-      "end": 63.84761904761905,
-      "loop": false
-    },
-    "Eye_selection": {
       "start": 65,
-      "end": 66.86235827664399,
+      "end": 67.12773242630385,
       "loop": false
     },
-    "Eye_selection_loop": {
-      "start": 68,
-      "end": 81.36272108843538,
+    "Fire_Effect": {
+      "start": 69,
+      "end": 70.32512471655329,
+      "loop": false
+    },
+    "freegame_intro": {
+      "start": 72,
+      "end": 74.3825850340136,
+      "loop": false
+    },
+    "Freespins_hades_loop": {
+      "start": 76,
+      "end": 107.33068027210885,
       "loop": true
     },
-    "fade_transition": {
-      "start": 83,
-      "end": 85.80281179138322,
-      "loop": false
-    },
-    "Freespins_Loop": {
-      "start": 87,
-      "end": 102.07321995464852,
+    "Freespins_posiedon_loop": {
+      "start": 109,
+      "end": 137.2689342403628,
       "loop": true
     },
-    "FS_counter_update_1": {
-      "start": 104,
-      "end": 104.23510204081633,
+    "Freespins_zeus_loop": {
+      "start": 139,
+      "end": 172.92589569160998,
+      "loop": true
+    },
+    "Free_Spins_intro": {
+      "start": 174,
+      "end": 177.23489795918368,
       "loop": false
     },
-    "FS_counter_update_2": {
-      "start": 106,
-      "end": 106.72265306122449,
+    "free_spins_outro": {
+      "start": 179,
+      "end": 182.23489795918368,
       "loop": false
     },
-    "FS_counter_update_5": {
-      "start": 108,
-      "end": 109.32265306122449,
+    "fs_counter_update": {
+      "start": 184,
+      "end": 185.25351473922902,
       "loop": false
     },
     "fs_number_move": {
-      "start": 111,
-      "end": 111.87972789115646,
+      "start": 187,
+      "end": 188.5432426303855,
       "loop": false
     },
     "generic_btn": {
-      "start": 113,
-      "end": 113.1340589569161,
+      "start": 190,
+      "end": 190.08167800453515,
       "loop": false
     },
-    "line_win": {
-      "start": 115,
-      "end": 118.07362811791383,
+    "God_Changing": {
+      "start": 192,
+      "end": 194.43972789115645,
+      "loop": false
+    },
+    "God_selection": {
+      "start": 196,
+      "end": 197.62632653061223,
+      "loop": false
+    },
+    "Grid_Meter": {
+      "start": 199,
+      "end": 200.17689342403628,
+      "loop": false
+    },
+    "Hades_Action_v2": {
+      "start": 202,
+      "end": 206.27185941043084,
+      "loop": false
+    },
+    "Hades_Activation": {
+      "start": 208,
+      "end": 210.49145124716554,
+      "loop": false
+    },
+    "Lightning_Effect": {
+      "start": 212,
+      "end": 213.82900226757369,
       "loop": false
     },
     "mega_big_win_loop": {
-      "start": 120,
-      "end": 124,
+      "start": 215,
+      "end": 221.6587755102041,
       "loop": false
     },
-    "Multiplier_appears": {
-      "start": 125,
-      "end": 126.74777777777778,
+    "Meter_Decrement": {
+      "start": 223,
+      "end": 224.31820861678005,
       "loop": false
     },
-    "Petals_transition": {
-      "start": 128,
-      "end": 131.57385487528344,
+    "Meter_Reset": {
+      "start": 226,
+      "end": 227.09421768707483,
       "loop": false
+    },
+    "Poseidon_Activation": {
+      "start": 229,
+      "end": 231.49145124716554,
+      "loop": false
+    },
+    "Posiedon_Action_v2": {
+      "start": 233,
+      "end": 238.62519274376416,
+      "loop": false
+    },
+    "Re-spin_Intro": {
+      "start": 240,
+      "end": 242.67104308390023,
+      "loop": false
+    },
+    "Re-spin_loop": {
+      "start": 244,
+      "end": 259.13768707482996,
+      "loop": true
     },
     "Reels_spin1": {
-      "start": 133,
-      "end": 137.012947845805,
+      "start": 261,
+      "end": 268.60163265306124,
       "loop": false
     },
-    "Reels_spin2": {
-      "start": 139,
-      "end": 143.0265759637188,
+    "Reel_intro": {
+      "start": 270,
+      "end": 271.85609977324265,
       "loop": false
     },
-    "Reels_spin3": {
-      "start": 145,
-      "end": 149.00702947845804,
+    "reel_landing": {
+      "start": 273,
+      "end": 274.075873015873,
       "loop": false
     },
     "Reel_stop": {
-      "start": 151,
-      "end": 151.5312925170068,
+      "start": 276,
+      "end": 278.1217006802721,
       "loop": false
     },
-    "scatter_landing": {
-      "start": 153,
-      "end": 154.87687074829932,
+    "respin_retrigger": {
+      "start": 280,
+      "end": 282.0065986394558,
+      "loop": false
+    },
+    "Scatter_Land": {
+      "start": 284,
+      "end": 285.00002267573694,
       "loop": false
     },
     "Spin_button": {
-      "start": 156,
-      "end": 157.60714285714286,
+      "start": 287,
+      "end": 287.80349206349206,
       "loop": false
     },
-    "Spin_stop": {
-      "start": 159,
-      "end": 160.06371882086168,
+    "Stop_button": {
+      "start": 289,
+      "end": 290.1028344671202,
       "loop": false
     },
     "super_big_win_loop": {
-      "start": 162,
-      "end": 166,
+      "start": 292,
+      "end": 298.65877551020407,
+      "loop": false
+    },
+    "Symbol_Landing": {
+      "start": 300,
+      "end": 301.55240362811793,
+      "loop": false
+    },
+    "Transition_1": {
+      "start": 303,
+      "end": 305.23809523809524,
+      "loop": false
+    },
+    "Transition_2": {
+      "start": 307,
+      "end": 309.2213378684807,
       "loop": false
     },
     "ultra_big_win_loop": {
-      "start": 167,
-      "end": 171,
+      "start": 311,
+      "end": 317.65877551020407,
       "loop": false
     },
-    "Wild_landing": {
-      "start": 172,
-      "end": 173.34757369614513,
+    "Whirlpool_effect": {
+      "start": 319,
+      "end": 321.4507709750567,
       "loop": false
     },
     "wintickup_center": {
-      "start": 175,
-      "end": 176.2949433106576,
+      "start": 323,
+      "end": 328.06766439909296,
       "loop": false
     },
-    "wintickup_center_volup": {
-      "start": 178,
-      "end": 179.29662131519274,
+    "wintickup_center_end_frame": {
+      "start": 330,
+      "end": 331.23507936507934,
+      "loop": false
+    },
+    "wintickup_moving": {
+      "start": 333,
+      "end": 335.7486394557823,
+      "loop": false
+    },
+    "win_fade": {
+      "start": 337,
+      "end": 338.4517913832199,
+      "loop": false
+    },
+    "Wof_Music": {
+      "start": 340,
+      "end": 354.7651700680272,
+      "loop": true
+    },
+    "Wrath_of_Gods_feature": {
+      "start": 356,
+      "end": 359.1559637188209,
+      "loop": false
+    },
+    "Zeus_Action": {
+      "start": 361,
+      "end": 364.1863945578231,
+      "loop": false
+    },
+    "Zeus_Activation": {
+      "start": 366,
+      "end": 368.4914512471655,
       "loop": false
     }
   }

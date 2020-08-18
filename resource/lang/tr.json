@@ -30,7 +30,7 @@
     "text":"GERÇEKLİK KONTROLÜ"
   },
   "lbl_RealityCheckText" : {
-    "text":"Oyunun oynandığı her % dakika Reality Check \ntalebinde bulundunuz. Oyun % oturumunuz için izin \nverilen dakikaya ulaşıldı."
+    "text":"Oyunun oynandığı her % dakika \n Reality Check talebinde bulundunuz. \n Oyun % oturumunuz için izin verilen dakikaya ulaşıldı."
   },
   "lbl_NetworkErrorHeading" : {
     "text":"SON BAĞLANTI"
@@ -71,7 +71,7 @@
     "text": "ÜCRETSİZ DÖNDÜRMELER"
   }, 
   "lbl_tooltip_labelMaxBet" :{
-    "text": "MAKSİMUM BAHİS"
+    "text": "Maks bahis"
    },
    "lbl_tooltip_labelSpin" :{
     "text": "DÖNDÜR"

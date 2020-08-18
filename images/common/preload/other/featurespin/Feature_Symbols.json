@@ -1,0 +1,39 @@
+{"frames": {
+
+"Hades_Symbol.png":
+{
+	"frame": {"x":2,"y":2,"w":310,"h":358},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":310,"h":358},
+	"sourceSize": {"w":310,"h":358},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"Poseidon_Symbol.png":
+{
+	"frame": {"x":314,"y":2,"w":310,"h":358},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":310,"h":358},
+	"sourceSize": {"w":310,"h":358},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"Zeus_Symbol.png":
+{
+	"frame": {"x":626,"y":2,"w":310,"h":358},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":310,"h":358},
+	"sourceSize": {"w":310,"h":358},
+	"pivot": {"x":0.5,"y":0.5}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "Feature_Symbols.png",
+	"format": "RGBA8888",
+	"size": {"w":938,"h":362},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:15802cde2608e197a72a9b38a1526634:b5d2c7ccd1b2ebd43c25e3d784864ce3:68a10dd80b9525c11ff8dea81fb25b47$"
+}
+}

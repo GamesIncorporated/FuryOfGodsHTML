@@ -30,7 +30,7 @@
     "text":"VIRKELIGHETSSJEKK"
   },
   "lbl_RealityCheckText" : {
-    "text":"Du har bedt om en virkelighetskontroll hvert % minutt \n under spillingen. Din spilløkt % har nå nådd minutter"
+    "text":"Du har bedt om en virkelighetskontroll \n hvert % minutt under spillingen. \n Din spilløkt % har nå nådd minutter"
   },
   "lbl_NetworkErrorHeading" : {
     "text":"MISTET FORBINDELSE"
@@ -71,7 +71,7 @@
     "text": "GRATISSPINN"
   },
   "lbl_tooltip_labelMaxBet" :{
-    "text": "MAKSIMALINNSATS"
+    "text": "Maks. innsats"
    },
    "lbl_tooltip_labelSpin" :{
     "text": "SPINN"
@@ -99,7 +99,7 @@
     "text": "INFORMASJON"
   },
   "lbl_tooltip_labelSettings": {
-    "text": "innstillinger"
+    "text": "Innstillingsmenyen"
   },
   "lbl_tooltip_labelHistory": {
     "text": "Spillhistorikk"

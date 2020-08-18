@@ -30,7 +30,7 @@
     "text":"PROVJERA STVARNOSTI"
   },
   "lbl_RealityCheckText" : {
-    "text":"Zahtijevali ste Provjeru u stvarnom vremenu svakih \n % minute/a igranja. Vaša sesija igranja % već traje minuta"
+    "text":"Zahtijevali ste Provjeru u stvarnom \n vremenu svakih % minute/a igranja. \n Vaša sesija igranja % već traje minuta"
   },
   "lbl_NetworkErrorHeading" : {
     "text":"PREKINUTA VEZA"
@@ -90,7 +90,7 @@
 	"text": "Stop Autoplays"
   },
   "lbl_tooltip_labelGameSettings":{
-    "text": "Zaustaviti Automatska odigravanja"
+    "text": "Postavke igre"
   },
   "lbl_tooltip_labelpaytable": {
     "text": "ISPLATNA TABLICA"
