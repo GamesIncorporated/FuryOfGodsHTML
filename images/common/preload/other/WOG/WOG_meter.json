@@ -1,0 +1,102 @@
+{"frames": {
+
+"Hades_active.png":
+{
+	"frame": {"x":2,"y":2,"w":82,"h":93},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":82,"h":93},
+	"sourceSize": {"w":82,"h":94},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"Hades_not_active.png":
+{
+	"frame": {"x":86,"y":2,"w":82,"h":93},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":82,"h":93},
+	"sourceSize": {"w":82,"h":94},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"Poseidon_active.png":
+{
+	"frame": {"x":170,"y":2,"w":82,"h":93},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":82,"h":93},
+	"sourceSize": {"w":82,"h":94},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"Poseidon_not_active.png":
+{
+	"frame": {"x":254,"y":2,"w":82,"h":93},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":82,"h":93},
+	"sourceSize": {"w":82,"h":94},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"WOG_meter_1.png":
+{
+	"frame": {"x":2,"y":97,"w":232,"h":229},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":232,"h":229},
+	"sourceSize": {"w":232,"h":229},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"WOG_meter_2.png":
+{
+	"frame": {"x":236,"y":97,"w":232,"h":229},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":232,"h":229},
+	"sourceSize": {"w":232,"h":229},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"WOG_meter_base.png":
+{
+	"frame": {"x":2,"y":328,"w":57,"h":65},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":88,"y":68,"w":57,"h":65},
+	"sourceSize": {"w":232,"h":229},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"WOG_meter_glow.png":
+{
+	"frame": {"x":61,"y":328,"w":45,"h":45},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":94,"y":78,"w":45,"h":45},
+	"sourceSize": {"w":232,"h":229},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"Zeus_active.png":
+{
+	"frame": {"x":108,"y":328,"w":82,"h":93},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":82,"h":93},
+	"sourceSize": {"w":82,"h":94},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"Zeus_not_active.png":
+{
+	"frame": {"x":192,"y":328,"w":82,"h":93},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":82,"h":93},
+	"sourceSize": {"w":82,"h":94},
+	"pivot": {"x":0.5,"y":0.5}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "WOG_meter.png",
+	"format": "RGBA8888",
+	"size": {"w":470,"h":423},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:b13f9936ccb4e08002848537e754bdc4:00484759899d82479cd84c8c163179ce:64177472d95709afb7cf2cde4f1429c2$"
+}
+}
