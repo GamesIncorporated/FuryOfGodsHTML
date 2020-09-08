@@ -1,0 +1,269 @@
+{
+  "resources": [
+    "res\\Audio\\preLoad.ogg",
+    "res\\Audio\\preLoad.m4a",
+    "res\\Audio\\preLoad.mp3"
+  ],
+  "spritemap": {
+    "2_retrigger": {
+      "start": 0,
+      "end": 2.5907936507936506,
+      "loop": false
+    },
+    "Anticipation": {
+      "start": 4,
+      "end": 8.704671201814058,
+      "loop": false
+    },
+    "basegame_loop": {
+      "start": 10,
+      "end": 48.08984126984127,
+      "loop": true
+    },
+    "big_win_loop": {
+      "start": 50,
+      "end": 56.65877551020408,
+      "loop": false
+    },
+    "Cluster_win": {
+      "start": 58,
+      "end": 59.30215419501134,
+      "loop": false
+    },
+    "Cluster_win_01": {
+      "start": 61,
+      "end": 63.45433106575964,
+      "loop": false
+    },
+    "common_win_end": {
+      "start": 65,
+      "end": 67.12773242630385,
+      "loop": false
+    },
+    "Fire_Effect": {
+      "start": 69,
+      "end": 70.32512471655329,
+      "loop": false
+    },
+    "freegame_intro": {
+      "start": 72,
+      "end": 74.3825850340136,
+      "loop": false
+    },
+    "Freespins_hades_loop": {
+      "start": 76,
+      "end": 107.33068027210885,
+      "loop": true
+    },
+    "Freespins_posiedon_loop": {
+      "start": 109,
+      "end": 137.2689342403628,
+      "loop": true
+    },
+    "Freespins_zeus_loop": {
+      "start": 139,
+      "end": 172.92589569160998,
+      "loop": true
+    },
+    "Free_Spins_intro": {
+      "start": 174,
+      "end": 177.23489795918368,
+      "loop": false
+    },
+    "free_spins_outro": {
+      "start": 179,
+      "end": 182.23489795918368,
+      "loop": false
+    },
+    "fs_counter_update": {
+      "start": 184,
+      "end": 185.25351473922902,
+      "loop": false
+    },
+    "fs_number_move": {
+      "start": 187,
+      "end": 188.5432426303855,
+      "loop": false
+    },
+    "generic_btn": {
+      "start": 190,
+      "end": 190.08167800453515,
+      "loop": false
+    },
+    "God_Changing": {
+      "start": 192,
+      "end": 194.43972789115645,
+      "loop": false
+    },
+    "God_selection": {
+      "start": 196,
+      "end": 197.62632653061223,
+      "loop": false
+    },
+    "Grid_Meter": {
+      "start": 199,
+      "end": 200.17689342403628,
+      "loop": false
+    },
+    "Hades_Action_v2": {
+      "start": 202,
+      "end": 206.27185941043084,
+      "loop": false
+    },
+    "Hades_Activation": {
+      "start": 208,
+      "end": 210.49145124716554,
+      "loop": false
+    },
+    "Lightning_Effect": {
+      "start": 212,
+      "end": 213.82900226757369,
+      "loop": false
+    },
+    "mega_big_win_loop": {
+      "start": 215,
+      "end": 221.6587755102041,
+      "loop": false
+    },
+    "Meter_Decrement": {
+      "start": 223,
+      "end": 224.31820861678005,
+      "loop": false
+    },
+    "Meter_Reset": {
+      "start": 226,
+      "end": 227.09421768707483,
+      "loop": false
+    },
+    "Poseidon_Activation": {
+      "start": 229,
+      "end": 231.49145124716554,
+      "loop": false
+    },
+    "Posiedon_Action_v2": {
+      "start": 233,
+      "end": 238.62519274376416,
+      "loop": false
+    },
+    "Re-spin_Intro": {
+      "start": 240,
+      "end": 242.67104308390023,
+      "loop": false
+    },
+    "Re-spin_loop": {
+      "start": 244,
+      "end": 259.13768707482996,
+      "loop": true
+    },
+    "Reels_spin1": {
+      "start": 261,
+      "end": 268.60163265306124,
+      "loop": false
+    },
+    "Reel_intro": {
+      "start": 270,
+      "end": 271.85609977324265,
+      "loop": false
+    },
+    "reel_landing": {
+      "start": 273,
+      "end": 274.075873015873,
+      "loop": false
+    },
+    "Reel_stop": {
+      "start": 276,
+      "end": 278.1217006802721,
+      "loop": false
+    },
+    "respin_retrigger": {
+      "start": 280,
+      "end": 282.0065986394558,
+      "loop": false
+    },
+    "Scatter_Land": {
+      "start": 284,
+      "end": 285.00002267573694,
+      "loop": false
+    },
+    "Spin_button": {
+      "start": 287,
+      "end": 287.80349206349206,
+      "loop": false
+    },
+    "Stop_button": {
+      "start": 289,
+      "end": 290.1028344671202,
+      "loop": false
+    },
+    "super_big_win_loop": {
+      "start": 292,
+      "end": 298.65877551020407,
+      "loop": false
+    },
+    "Symbol_Landing": {
+      "start": 300,
+      "end": 301.55240362811793,
+      "loop": false
+    },
+    "Transition_1": {
+      "start": 303,
+      "end": 305.23809523809524,
+      "loop": false
+    },
+    "Transition_2": {
+      "start": 307,
+      "end": 309.2213378684807,
+      "loop": false
+    },
+    "ultra_big_win_loop": {
+      "start": 311,
+      "end": 317.65877551020407,
+      "loop": false
+    },
+    "Whirlpool_effect": {
+      "start": 319,
+      "end": 321.4507709750567,
+      "loop": false
+    },
+    "wintickup_center": {
+      "start": 323,
+      "end": 328.06766439909296,
+      "loop": false
+    },
+    "wintickup_center_end_frame": {
+      "start": 330,
+      "end": 331.23507936507934,
+      "loop": false
+    },
+    "wintickup_moving": {
+      "start": 333,
+      "end": 335.7486394557823,
+      "loop": false
+    },
+    "win_fade": {
+      "start": 337,
+      "end": 338.4517913832199,
+      "loop": false
+    },
+    "Wof_Music": {
+      "start": 340,
+      "end": 354.7651700680272,
+      "loop": true
+    },
+    "Wrath_of_Gods_feature": {
+      "start": 356,
+      "end": 359.1559637188209,
+      "loop": false
+    },
+    "Zeus_Action": {
+      "start": 361,
+      "end": 364.1863945578231,
+      "loop": false
+    },
+    "Zeus_Activation": {
+      "start": 366,
+      "end": 368.4914512471655,
+      "loop": false
+    }
+  }
+}

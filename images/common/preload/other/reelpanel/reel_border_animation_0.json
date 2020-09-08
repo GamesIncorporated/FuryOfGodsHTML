@@ -1,0 +1,48 @@
+{"frames": {
+
+"reel_border_animation_00000.png":
+{
+	"frame": {"x":2,"y":2,"w":702,"h":708},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":46,"y":41,"w":702,"h":708},
+	"sourceSize": {"w":798,"h":789},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"reel_border_animation_00001.png":
+{
+	"frame": {"x":706,"y":2,"w":704,"h":707},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":42,"y":42,"w":704,"h":707},
+	"sourceSize": {"w":798,"h":789},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"reel_border_animation_00002.png":
+{
+	"frame": {"x":2,"y":712,"w":709,"h":707},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":39,"y":42,"w":709,"h":707},
+	"sourceSize": {"w":798,"h":789},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"reel_border_animation_00003.png":
+{
+	"frame": {"x":713,"y":712,"w":707,"h":707},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":42,"y":42,"w":707,"h":707},
+	"sourceSize": {"w":798,"h":789},
+	"pivot": {"x":0.5,"y":0.5}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "reel_border_animation-0.png",
+	"format": "RGBA8888",
+	"size": {"w":1422,"h":1421},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:dbe8779bf246e760576b443c7434d988:57d5406c5875db3f2bc2f998052d7a7c:6e71d10b7e2f239e081f706b3d262872$"
+}
+}
