@@ -97,7 +97,7 @@
             width: 256px;
             height: 98px;
             position: absolute;
-            display: block;
+			display:none
         }
     </style>
     <script>
@@ -110,20 +110,6 @@
         link.type = 'text/css';
         link.href = window.envConfig.cdn + 'css/loading.css';
         document.head.appendChild(link);
-
-        function getParams(url) {
-            var params = {};
-            var parser = document.createElement('a');
-            parser.href = url;
-            var query = parser.search.substring(1);
-            var vars = query.split('&');
-            for (var i = 0; i < vars.length; i++) {
-                var pair = vars[i].split('=');
-                params[pair[0]] = decodeURIComponent(pair[1]);
-            }
-            return params;
-        };
-
         function resizeLoadingScreen() {
 			
 		    var gameCanvas = document.getElementById("gameCanvas");
@@ -131,7 +117,7 @@
                 gameCanvas.style.position = "fixed";
             }
             else if (gameCanvas) {
-                gameCanvas.style.position = "fixed";
+                gameCanvas.style.position = "static";
             }
             if (document.getElementById("loader")) {
                 var widthLand = 1280;
@@ -140,31 +126,16 @@
                 var heightPort = 1280;
                 var logoWidth = 800;
                 var logoHeight = 668;
-                var errorPopUpWidth = 745;
-                var errorPopUpHeight = 421;
-                var vendorLogoWidth = 256;
-                var vendorLogoHeight = 98;
                 var statusBarWidth = 300;
                 var statusBarHeight = 20;
                 var statusBarOffsetV = 200;
-                var errorPopUpWidth = 745;
-                var errorPopUpHeight = 421;
                 var loader = document.getElementById("loader");
                 var scaleX = loader.clientWidth / widthLand;
                 var scaleY = innerHeight / heightLand;
                 var scale = 1;
                 var loadingLogoSymbol = document.getElementById("loadingLogoSymbol");
-                var vendorLogo = document.getElementById("vendorLogo");
-                // var loadingLogoText = document.getElementById("loadingLogoText");
+                var loadingLogoText = document.getElementById("loadingLogoText");
                 var statusBar = document.getElementById("percentBar");
-
-                var statusBarLeftPosition = ((loader.clientWidth / 2) - (statusBar.clientWidth / 2));
-                var statusBarTopPosition = ((innerHeight / 2) - (statusBar.clientHeight / 2) + (statusBarOffsetV * scale));
-                var vendorId = (getParams(window.location.href)['vendor']) || 'bs';
-                var langId = (getParams(window.location.href)['lang']) || 'en';
-                var logoURL = window.envConfig.cdn + "images/common/Loading/logo/" + vendorId + "/logo.png'";
-                var errorPopUpImageURL = window.envConfig.cdn + "images/common/preload/lang/" + langId + "/initError/initError.png'";
-
                 if (scaleX < scaleY) {
                     scale = scaleX;
                 } else {
@@ -175,65 +146,31 @@
                 loadingLogoSymbol.style.left = ((loader.clientWidth / 2) - (loadingLogoSymbol.clientWidth / 2)) + "px";
                 loadingLogoSymbol.style.top = ((innerHeight / 2) - (loadingLogoSymbol.clientHeight / 2)) + "px";
 
-                // loadingLogoText.style.width = logoWidth * scale + "px";
-                // loadingLogoText.style.height = logoHeight * scale + "px";
-                // loadingLogoText.style.left = ((loader.clientWidth / 2) - (loadingLogoText.clientWidth / 2)) + "px";
-                // loadingLogoText.style.top = ((innerHeight / 2) - (loadingLogoText.clientHeight / 2)) + "px";
+                loadingLogoText.style.width = logoWidth * scale + "px";
+                loadingLogoText.style.height = logoHeight * scale + "px";
+                loadingLogoText.style.left = ((loader.clientWidth / 2) - (loadingLogoText.clientWidth / 2)) + "px";
+                loadingLogoText.style.top = ((innerHeight / 2) - (loadingLogoText.clientHeight / 2)) + "px";
 
                 statusBar.style.width = statusBarWidth * scale + "px";
                 statusBar.style.height = statusBarHeight * scale + "px";
-
                 statusBar.style.left = ((loader.clientWidth / 2) - (statusBar.clientWidth / 2)) + "px";
                 statusBar.style.top = ((innerHeight / 2) - (statusBar.clientHeight / 2) + (statusBarOffsetV * scale)) + "px";
-
-                vendorLogo.style.display = "block";
-				// if(vendorLogo.style.display === "block"){
-                    vendorLogo.style.width = vendorLogoWidth * scale + "px";
-                    vendorLogo.style.left = ((loader.clientWidth / 2) - (vendorLogo.clientWidth / 2)) + "px";
-                    vendorLogo.style.height = (vendorLogoHeight * scale) + "px";
-                    vendorLogo.style.top = ((innerHeight / 2) - (statusBar.clientHeight / 2) + (vendorLogo.clientHeight / 2) + (statusBarOffsetV * scale)) + "px";
-                    vendorLogo.style.position = "absolute";
+				vendorLogo.style.display  = "none";
+				if(vendorLogo.style.display === "block"){
+				 vendorLogo.style.left = statusBarLeftPosition + "px";
+                 vendorLogo.style.top = (statusBarTopPosition + statusBarHeight * scale + 5) + "px";
+                 vendorLogo.style.width = statusBarWidth * scale + "px";
+                 vendorLogo.style.height = (98 * statusBarWidth * scale)/256 + "px";
                 
-                    vendorLogo.style.backgroundImage = "url('" + logoURL + ")";
-                    vendorLogo.style.backgroundPosition = "top center";
-                    vendorLogo.style.backgroundRepeat = "no-repeat";
-                    vendorLogo.style.backgroundSize = "contain";
-				// }
+                 vendorLogo.style.backgroundImage = "url('" + logoURL + ")";
+                 vendorLogo.style.backgroundPosition = "top center";
+                 vendorLogo.style.backgroundRepeat = "no-repeat";
+                 vendorLogo.style.backgroundSize = "contain";
+				}
 			
-                errorPopUp.style.backgroundImage = "url('" + errorPopUpImageURL + ")";
 
                
-                var scaleErrorPopUpX = innerWidth / widthLand;
-                var scaleErrorPopUpY = innerHeight / heightLand;
-                var scaleErrorPopUp = 1;
-                if (scaleErrorPopUpX < scaleErrorPopUpY) {
-                    scaleErrorPopUp = scaleErrorPopUpX;
-                } else {
-                    scaleErrorPopUp = scaleErrorPopUpY;
-                }
-                var errorPopUpHeight = (innerHeight / 2) - (errorPopUpHeight / 2);
-                var errorPopUpWidth = (innerWidth / 2) - (errorPopUpWidth / 2);
-                //errorPopUp.style.width = errorPopUp.clientWidth * scaleErrorPopUp + "px";
-                // errorPopUp.style.height = errorPopUp.clientHeight * scaleErrorPopUp + "px";
-                errorPopUp.style.left = errorPopUpWidth + "px";
-                errorPopUp.style.top = errorPopUpHeight + "px";
                 loader.style.display = "block";
-                var errorPopuH = (innerHeight / 2) / (errorPopUpHeight / 2);
-                var errorPopuW = (innerWidth / 2) / (errorPopUpWidth / 2);
-                if (errorPopuW < errorPopuH) {
-                    scale = errorPopuW;
-                } else {
-                    scale = errorPopuH;
-                }
-                errorPopUp.style.width = errorPopUpWidth * scale + "px";
-                errorPopUp.style.height = errorPopUpHeight * scale + "px";
-                var errorPopupTop = (innerHeight / 2) - ((errorPopUpHeight * scale) / 2);
-                var errorPopupLeft = (innerWidth / 2) - ((errorPopUpWidth * scale) / 2);
-                errorPopUp.style.backgroundPosition = "top center";
-                errorPopUp.style.backgroundRepeat = "no-repeat";
-                errorPopUp.style.backgroundSize = "contain";
-                errorPopUp.style.left = errorPopupLeft + "px";
-                errorPopUp.style.top = errorPopupTop + "px";
                 if (scale == 0) {
                     resizeLoadingScreen();
                 }
@@ -253,12 +190,27 @@
     <div id="gameContainer">
         <canvas id="gameCanvas"></canvas>
         <!-- <div id="infoContainer"></div> -->
-
+        <div id="errorPopUp">
+            <div id="errorBtn"></div>
+            <div id="errorLabel"></div>
+        </div>
+        <div id="soundPopupContainer">
+            <div id="soundPopup">
+                <div id="gameSoundText"></div>
+                <div id="soundOnBtn"></div>
+                <div id="soundOffBtn"></div>
+            </div>
+        </div>
+        <div id="Optimizer">
+            <div id="OptimizerTxt">
+                <span id="defaultBrowserLine"></span>
+            </div>
+        </div>
     </div>
 
     <div id="loader">
         <div id="loadingLogoSymbol"></div>
-        <!-- <div id="loadingLogoText"></div> -->
+        <div id="loadingLogoText"></div>
         <div id="percentBar">
             <div id="loading_text"></div>
             <div id="progress">
